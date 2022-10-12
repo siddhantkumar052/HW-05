@@ -1,4 +1,4 @@
-# SSW 567 HW 005
+# SSW 567 HW 05
 
 This folder contains HW-05
 
