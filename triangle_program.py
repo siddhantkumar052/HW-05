@@ -6,7 +6,7 @@ HW 05 - Static Code Analysis
 """
 
 
-def classifyTriangle(a, b, c):
+def classify_triangle(a, b, c):
     """
     This function returns a string with the type of triangle from three integer values
     corresponding to the lengths of the three sides of the Triangle.
