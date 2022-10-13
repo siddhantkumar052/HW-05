@@ -40,3 +40,6 @@ def classify_triangle(a, b, c):
         return 'Scalene'
     else:
         return 'Isosceles'
+
+if __name__ == "__main__":
+    classify_triangle()
